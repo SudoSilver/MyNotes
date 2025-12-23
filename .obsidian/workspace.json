@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "dd3ce0c662694b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8ba60b34bf0699",
+        "type": "tabs",
+        "dimension": 58.37563451776649,
+        "children": [
+          {
+            "id": "592bae922737c5e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C basics/Segfault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Segfault"
+            }
+          },
+          {
+            "id": "d2c86d0c57621b25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1436aa230150fe9c",
+        "type": "tabs",
+        "dimension": 41.62436548223351,
+        "children": [
+          {
+            "id": "4589a2a9f9a2d6a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96274ebf3897ea0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e316a3031f81eecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d608b1692921c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "71004c95b6f6b0e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5af3ff85d710946e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5465df26bbc7a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "51fcd4122bed0eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d571012193a3098e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "829c8fae6d965064",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f1acde76e03cd8e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3fc3903eea31442",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d5637e5d23c722cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Legents/Yvis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Yvis"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d2c86d0c57621b25",
+  "lastOpenFiles": [
+    "C basics/Pointer.md",
+    "README.md",
+    "C basics/Segfault.md",
+    "Memory and Such/Heap.md",
+    "Memory and Such/Stack.md",
+    "Memory and Such/Static.md",
+    "Memory and Such/Volatile.md",
+    "Memory and Such/What a computer gives Je.md",
+    "Operating Systems.md",
+    "C basics",
+    "PreReq/Stack vs Heap.md",
+    "Memory and Such",
+    "Characters/Xristos.md",
+    "Characters/Xristoforos.md",
+    "Characters/Panagioths.md",
+    "Characters/Prodromos.md",
+    "Characters/Gabriel.md",
+    "Monster Manual/Angels.md",
+    "Legents/Yvis.md",
+    "Legents/Haial.md",
+    "Legents/Sylpitha.md",
+    "Legents/SpecialExtrass/Esil.md",
+    "Fighting guide/Hand to hand combat.md",
+    "Places non important/Felik.md",
+    "Monster Manual/Bosses/Medusa.md",
+    "Legents/SpecialExtrass",
+    "Monster Manual/SpecialExtrass",
+    "Monster Manual/New folder",
+    "Monster Manual/Bosses/The worldbinder.md",
+    "Monster Manual/Reapers.md",
+    "Monster Manual/Cerberous.md",
+    "Untitled.base",
+    "map/src/main.rs",
+    "map/src/ui.rs",
+    "map/Cargo.toml",
+    "map/src/npc.rs",
+    "Character relationships.canvas"
+  ]
+}
