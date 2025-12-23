@@ -6,7 +6,10 @@ These are the notes i have made in my attempt of understanding as much as possib
 5. The Static part of the memory
 6. Pointers
 7. What is a Segfault 
+<<<<<<< HEAD
 8. Some basics about Debian and useful tools for it
+=======
+>>>>>>> d20560c8de80ea41e0efa7bcbd50241cd72a4096
 
 I took this notes as they are going to be of massive help as i am developing my own Operating System alongside some friends (here is a link: https://github.com/MOS-Official/MOSOfficial) and many more projects to come. 
 
